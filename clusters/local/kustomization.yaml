@@ -1,2 +1,3 @@
 ﻿resources:
+  - project-platform.yaml
   - whoami-app.yaml
