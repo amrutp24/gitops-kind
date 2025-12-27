@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: <YOUR_GIT_REPO_URL>
+    repoURL: https://github.com/amrutp24/gitops-kind.git
     targetRevision: main
     path: apps/whoami/overlays/local
   destination:
